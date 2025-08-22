@@ -8,9 +8,6 @@ Rất mong mọi người sẽ thích dự án này. Nếu thấy nó hữu ích
 
 **[➡️ Xem Demo Live tại đây](https://ai-comparison-hub.onrender.com/)**
 
-*Gợi ý: Bạn có thể chụp ảnh màn hình trang web của mình và thay thế link dưới đây để README thêm phần sinh động!*
-
-
 ## ✨ Tính năng nổi bật
 
 *   **So sánh chi tiết:** Phân tích các mô hình AI hàng đầu: Claude Sonnet 4, Opus 4.1, Gemini 2.5 Pro, ChatGPT 5, và Grok 4.
